@@ -26,7 +26,8 @@ pip install selenium
 ## Run the Test
 
 ```bash
-python test.py
+python submit_with_valid_inputs.py
+python submit_without_inputs.py
 ```
 
 ## Test Scenario
